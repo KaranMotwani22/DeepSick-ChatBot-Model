@@ -1,0 +1,483 @@
+{
+  "intents": [
+    {
+      "tag": "Emp-1 Name",
+      "patterns": [
+        "What is my name?",
+        "Can you provide my full name?",
+        "Please tell me my name.",
+        "What is my registered name?",
+        "How is my name listed in the system?",
+        "Check my name in the records."
+      ],
+      "responses": "Sharad Mate"
+    },
+    {
+      "tag": "Emp-1 Pan Card",
+      "patterns": [
+        "What is my PAN card number?",
+        "Provide my PAN card details.",
+        "Can you share my PAN number?",
+        "What is my PAN for tax purposes?",
+        "Please tell me my PAN card information.",
+        "What PAN card info do you have on file for me?"
+      ],
+      "responses": "AOAPM6736P"
+    },
+    {
+      "tag": "Emp-1 Mobile Number",
+      "patterns": [
+        "What is my mobile number?",
+        "Please provide my contact number.",
+        "Can you share my cell number?",
+        "What number is listed as my contact?",
+        "Tell me my registered mobile number.",
+        "What is my phone number in the system?"
+      ],
+      "responses": "9673001101"
+    },
+    {
+      "tag": "Emp-1 Email ID",
+      "patterns": [
+        "What is my email address?",
+        "Provide my email ID.",
+        "Can you share my email?",
+        "What email is on file for me?",
+        "Tell me my registered email address.",
+        "What is my work email ID?"
+      ],
+      "responses": "ca_hr@circularangle.com"
+    },
+    {
+      "tag": "Emp-1 UAN",
+      "patterns": [
+        "What is my UAN?",
+        "Provide my Universal Account Number.",
+        "Can you share my UAN details?",
+        "Please tell me my UAN number.",
+        "What is my UAN as per records?"
+      ],
+      "responses": "100348371239"
+    },
+    {
+      "tag": "Emp-1 Aadhaar Number",
+      "patterns": [
+        "What is my Aadhar number?",
+        "Provide my Aadhar card details.",
+        "Can you share my Aadhar card number?",
+        "What is my Aadhar number on record?",
+        "Please tell me my Aadhar card information.",
+        "What Aadhar card details do you have for me?"
+      ],
+      "responses": "474425213109"
+    },
+    {
+      "tag": "Emp-1 Gender",
+      "patterns": [
+        "What is my gender?",
+        "Can you specify my gender?",
+        "Please provide my gender.",
+        "What gender is recorded for me?",
+        "Check my gender in the system.",
+        "What is my listed gender?"
+      ],
+      "responses": "Male"
+    },
+    {
+      "tag": "Emp-1 Education History",
+      "patterns": [
+        "What is my education history?",
+        "Can you provide details of my education?",
+        "Please share my academic background.",
+        "What is my educational qualification?",
+        "Provide my education details.",
+        "Tell me my educational history as per records."
+      ],
+      "responses": "Management - Dr.BAMU\nBCom - Dr.BAMU"
+    },
+    {
+      "tag": "Emp-1 Position",
+      "patterns": [
+        "What is my current job role?",
+        "What position do I hold?",
+        "Can you specify my job role?",
+        "What is my job title?",
+        "Please tell me my position in the company.",
+        "What is my role in the organization?"
+      ],
+      "responses": "Deputy Manager - HR"
+    },
+    {
+      "tag": "Emp-1 Reposting Manager",
+      "patterns": [
+        "Who is my reporting manager?",
+        "Provide the name of my manager.",
+        "Can you share details of my reporting manager?",
+        "Who is my immediate supervisor?",
+        "Tell me who my manager is.",
+        "Who do I report to?"
+      ],
+      "responses": "Salil Bhide:(HR Lead- Domestic Seed Business)"
+    },
+    {
+      "tag": "Emp-1 Grade",
+      "patterns": [
+        "What is my grade level?",
+        "Can you specify my grade?",
+        "Please provide my grade.",
+        "What grade am I classified under?",
+        "Tell me my employee grade.",
+        "What is my grade in the company?"
+      ],
+      "responses": "M5"
+    },
+    {
+      "tag": "Emp-1 AP",
+      "patterns": [
+        "How can I access my appraisal document?",
+        "Where can I find my appraisal details?",
+        "Need help with my appraisal document access.",
+        "How do I view my appraisal documents?",
+        "Can you help me find my appraisal records?",
+        "Where are my appraisal documents stored?"
+      ],
+      "responses": "Please mention the year followed by Appraisal"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2015",
+      "patterns": [
+        "Provide my 2015 appraisal document.",
+        "Where is my appraisal for 2015?",
+        "Share my 2015 appraisal details.",
+        "I need my 2015 appraisal report.",
+        "Can you give me my 2015 appraisal document?",
+        "What are my appraisal results for 2015?"
+      ],
+      "responses": "Not available"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2016",
+      "patterns": [
+        "Provide my 2016 appraisal document.",
+        "Where is my appraisal for 2016?",
+        "Share my 2016 appraisal details.",
+        "I need my 2016 appraisal report.",
+        "Can you give me my 2016 appraisal document?",
+        "What are my appraisal results for 2016?"
+      ],
+      "responses": "Not available"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2017",
+      "patterns": [
+        "Provide my 2017 appraisal document.",
+        "Where is my appraisal for 2017?",
+        "Share my 2017 appraisal details.",
+        "I need my 2017 appraisal report.",
+        "Can you give me my 2017 appraisal document?",
+        "What are my appraisal results for 2017?"
+      ],
+      "responses": "Not available"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2018",
+      "patterns": [
+        "Provide my 2018 appraisal document.",
+        "Where is my appraisal for 2018?",
+        "Share my 2018 appraisal details.",
+        "I need my 2018 appraisal report.",
+        "Can you give me my 2018 appraisal document?",
+        "What are my appraisal results for 2018?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1025/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2019",
+      "patterns": [
+        "Provide my 2019 appraisal document.",
+        "Where is my appraisal for 2019?",
+        "Share my 2019 appraisal details.",
+        "I need my 2019 appraisal report.",
+        "Can you give me my 2019 appraisal document?",
+        "What are my appraisal results for 2019?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1023/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2020",
+      "patterns": [
+        "Provide my 2020 appraisal document.",
+        "Where is my appraisal for 2020?",
+        "Share my 2020 appraisal details.",
+        "I need my 2020 appraisal report.",
+        "Can you give me my 2020 appraisal document?",
+        "What are my appraisal results for 2020?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1021/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2021",
+      "patterns": [
+        "Provide my 2021 appraisal document.",
+        "Where is my appraisal for 2021?",
+        "Share my 2021 appraisal details.",
+        "I need my 2021 appraisal report.",
+        "Can you give me my 2021 appraisal document?",
+        "What are my appraisal results for 2021?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1019/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2022",
+      "patterns": [
+        "Provide my 2022 appraisal document.",
+        "Where is my appraisal for 2022?",
+        "Share my 2022 appraisal details.",
+        "I need my 2022 appraisal report.",
+        "Can you give me my 2022 appraisal document?",
+        "What are my appraisal results for 2022?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1016/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Appraisal 2023",
+      "patterns": [
+        "Provide my 2023 appraisal document.",
+        "Where is my appraisal for 2023?",
+        "Share my 2023 appraisal details.",
+        "I need my 2023 appraisal report.",
+        "Can you give me my 2023 appraisal document?",
+        "What are my appraisal results for 2023?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1048/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 SL",
+      "patterns": [
+        "How can I access my salary document?",
+        "Where can I find my salary details?",
+        "Need help with my salary document access.",
+        "How do I view my salary slips?",
+        "Can you help me find my salary documents?",
+        "Where are my salary records stored?"
+      ],
+      "responses": "Please mention the year followed by Salary"
+    },
+    {
+      "tag": "Emp-1 Salary 2015",
+      "patterns": [
+        "Provide my 2015 salary document.",
+        "Where is my salary for 2015?",
+        "Share my 2015 salary details.",
+        "I need my 2015 salary slip.",
+        "Can you give me my 2015 salary document?",
+        "What are my salary details for 2015?"
+      ],
+      "responses": "Not available"
+    },
+    {
+      "tag": "Emp-1 Salary 2016",
+      "patterns": [
+        "Provide my 2016 salary document.",
+        "Where is my salary for 2016?",
+        "Share my 2016 salary details.",
+        "I need my 2016 salary slip.",
+        "Can you give me my 2016 salary document?",
+        "What are my salary details for 2016?"
+      ],
+      "responses": "Not available"
+    },
+    {
+      "tag": "Emp-1 Salary 2017",
+      "patterns": [
+        "Provide my 2017 salary document.",
+        "Where is my salary for 2017?",
+        "Share my 2017 salary details.",
+        "I need my 2017 salary slip.",
+        "Can you give me my 2017 salary document?",
+        "What are my salary details for 2017?"
+      ],
+      "responses": "Not available"
+    },
+    {
+      "tag": "Emp-1 Salary 2018",
+      "patterns": [
+        "Provide my 2018 salary document.",
+        "Where is my salary for 2018?",
+        "Share my 2018 salary details.",
+        "I need my 2018 salary slip.",
+        "Can you give me my 2018 salary document?",
+        "What are my salary details for 2018?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1036/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Salary 2019",
+      "patterns": [
+        "Provide my 2019 salary document.",
+        "Where is my salary for 2019?",
+        "Share my 2019 salary details.",
+        "I need my 2019 salary slip.",
+        "Can you give me my 2019 salary document?",
+        "What are my salary details for 2019?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1037/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Salary 2020",
+      "patterns": [
+        "Provide my 2020 salary document.",
+        "Where is my salary for 2020?",
+        "Share my 2020 salary details.",
+        "I need my 2020 salary slip.",
+        "Can you give me my 2020 salary document?",
+        "What are my salary details for 2020?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1039/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Salary 2021",
+      "patterns": [
+        "Provide my 2021 salary document.",
+        "Where is my salary for 2021?",
+        "Share my 2021 salary details.",
+        "I need my 2021 salary slip.",
+        "Can you give me my 2021 salary document?",
+        "What are my salary details for 2021?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1041/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Salary 2022",
+      "patterns": [
+        "Provide my 2022 salary document.",
+        "Where is my salary for 2022?",
+        "Share my 2022 salary details.",
+        "I need my 2022 salary slip.",
+        "Can you give me my 2022 salary document?",
+        "What are my salary details for 2022?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1043/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 Salary 2023",
+      "patterns": [
+        "Provide my 2023 salary document.",
+        "Where is my salary for 2023?",
+        "Share my 2023 salary details.",
+        "I need my 2023 salary slip.",
+        "Can you give me my 2023 salary document?",
+        "What are my salary details for 2023?"
+      ],
+      "responses": "Visit :https://weatworktest.mahyco.com/xmlup/Documents/MyProfileDocuments/97260893/1047/97260893.pdf"
+    },
+    {
+      "tag": "Emp-1 HrPolicy Holiday",
+      "patterns": [
+        "What is the HR policy for my leaves?",
+        "Can you provide my leave policy details?",
+        "Share the HR leave policy for me.",
+        "What is the company policy on leaves?",
+        "Tell me about the HR leave rules.",
+        "How are leaves managed as per HR policy?"
+      ],
+      "responses": "Regular attendance is mandatory for the effective operation of the Company."
+    },
+    {
+      "tag": "Emp-1 HrPolicy Leaves",
+      "patterns": [
+        "I have a query about my leaves.",
+        "Need information on my leave balance.",
+        "Can you help with my leave details?",
+        "I have a question regarding my leaves.",
+        "Help me with my leave information.",
+        "What is the answer to my leave query?"
+      ],
+      "responses": "You may request your supervisor for leaves but only under certain circumstances will it be accepted."
+    },
+    {
+      "tag": "HR Policy Full",
+      "patterns": [
+        "Provide the full HR policy document.",
+        "Can I get the complete HR policy?",
+        "Where can I access the HR policy document?",
+        "Share the entire HR policy with me.",
+        "I need the full HR policy document.",
+        "Can you give me the complete HR policy?"
+      ],
+      "responses": "Downloading"
+    },
+    {
+      "tag": "Emp-1 HrPolicy",
+      "patterns": [
+        "I have a query about the HR policy.",
+        "Need information on HR policies.",
+        "Can you help with an HR policy question?",
+        "I have a question regarding HR policies.",
+        "Help me with my HR policy query.",
+        "What is the answer to my HR policy question?"
+      ],
+      "responses": "Do you have a specific doubt or download the entire Policy in PDF?"
+    },
+    {
+      "tag": "Emp-1 Total Privileged Leaves",
+      "patterns": [
+        "How many total privileged leaves do I have?",
+        "What are my total privileged leave days?",
+        "Provide the total number of my privileged leaves.",
+        "How many privileged leaves are allocated to me?",
+        "Tell me my total privileged leave balance.",
+        "What is the count of my privileged leaves?"
+      ],
+      "responses": "Total Privilege Leave Allotted:99.5"
+    },
+    {
+      "tag": "Emp-1 Total Paternity Leaves",
+      "patterns": [
+        "How many total paternity leaves do I have?",
+        "What are my total paternity leave days?",
+        "Provide the total number of my paternity leaves.",
+        "How many paternity leaves are allocated to me?",
+        "Tell me my total paternity leave balance.",
+        "What is the count of my paternity leaves?"
+      ],
+      "responses": "Total Paternity Leave Allotted:5.0"
+    },
+    {
+      "tag": "Emp-1 Balance Privileged Leaves",
+      "patterns": [
+        "How many privileged leaves do I have left?",
+        "What is my balance of privileged leaves?",
+        "Provide the remaining number of my privileged leave days.",
+        "How many of my privileged leaves are still available?",
+        "Tell me the balance of my privileged leaves.",
+        "What is the remaining count of my privileged leaves?"
+      ],
+      "responses": "Balance Privilege Leaves:76.0"
+    },
+    {
+      "tag": "Emp-1 Balance Paternity Leaves",
+      "patterns": [
+        "How many paternity leaves do I have left?",
+        "What is my balance of paternity leaves?",
+        "Provide the remaining number of my paternity leave days.",
+        "How many of my paternity leaves are still available?",
+        "Tell me the balance of my paternity leaves.",
+        "What is the remaining count of my paternity leaves?"
+      ],
+      "responses": "Balance Paternity Leaves:5.0"
+    },
+    {
+      "tag": "Emp-1 Leave Query",
+      "patterns": [
+        "I have a query about my leaves.",
+        "Need information on my leave balance.",
+        "Can you help with my leave details?",
+        "I have a question regarding my leaves.",
+        "Help me with my leave information.",
+        "What is the answer to my leave query?"
+      ],
+      "responses": "Please specify which type of leave count you want to see"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "leaveBalance": [
+    []
+  ],
+  "Policyconfig": [
+    [
+      {
+        "keyField": "BackDated",
+        "valueField": "256",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "BackDated",
+        "valueField": "256",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "CancelLeave",
+        "valueField": "10",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "CancelLeave",
+        "valueField": "10",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "chkFor24Dec",
+        "valueField": "31",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "chkFor24Dec",
+        "valueField": "31",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "CompOff",
+        "valueField": "2",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "CompOff",
+        "valueField": "2",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "MaternityLeave",
+        "valueField": "90",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "MaternityLeave",
+        "valueField": "90",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "PaternityLeave",
+        "valueField": "5",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "PaternityLeave",
+        "valueField": "5",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "SickLeave",
+        "valueField": "2",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "SickLeave",
+        "valueField": "2",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "WeekendLeave",
+        "valueField": "15",
+        "companyCodeNo": null
+      },
+      {
+        "keyField": "WeekendLeave",
+        "valueField": "15",
+        "companyCodeNo": null
+      }
+    ]
+  ],
+  "QuotaTypeBalance": [
+    []
+  ]
+}
